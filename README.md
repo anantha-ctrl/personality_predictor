@@ -96,9 +96,18 @@ app.run(host='0.0.0.0', port=int(os.environ.get('PORT', 5000)))
 
 ## 🖼️ Screenshots
 
-*(Include screenshots of the upload page, loading spinner, and results page)*
+### Index Page
+![Index Page](https://res.cloudinary.com/de1tywvqm/image/upload/v1757247385/Screenshot_2025-09-07_173203_bteb3z.png)
 
----
+### Upload Page
+![Upload Page](https://res.cloudinary.com/de1tywvqm/image/upload/v1757247385/Screenshot_2025-09-07_173721_inrmop.png)
+
+### Loading Page
+![Loading Page](https://res.cloudinary.com/de1tywvqm/image/upload/v1757247385/Screenshot_2025-09-07_173845_llqgma.png)
+
+### Prediction Result Page
+![Result Page](https://res.cloudinary.com/de1tywvqm/image/upload/v1757247385/Screenshot_2025-09-07_173428_lbod6u.png)
+
 
 ## ⚡ Next Steps / Improvements
 
