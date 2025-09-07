@@ -1,4 +1,4 @@
-# 🌟 Personality Prediction System Through CV Analysis
+# Personality Prediction System Through CV Analysis
 
 A simple web-based system that analyzes uploaded PDF or DOCX CV files and predicts personality traits based on keyword analysis using NLP (SpaCy).
 
@@ -108,5 +108,3 @@ This project is open-source and available under the MIT License.
 💡 Feel free to ⭐ the project if you find it useful!
 ````
 
-
-Want me to help you write a fancy LICENSE file or integrate database logging next? 🌟
